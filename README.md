@@ -1,5 +1,3 @@
-# CURSOR_ECOM_EXERCISE
-
 
 # 📦 E-Commerce Data Pipeline (CSV → SQLite → SQL Summary)
 

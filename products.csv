@@ -1,0 +1,7 @@
+product_id,product_name,category_id,price,sku
+1,Wireless Mouse,1,599.00,SKU-MOU-001
+2,Bluetooth Headphones,1,1499.00,SKU-HDP-201
+3,Electric Kettle,2,999.00,SKU-KTL-332
+4,Cotton T-Shirt,3,399.00,SKU-TSH-443
+5,Rice Bag 10kg,4,799.00,SKU-RIC-778
+6,Face Moisturizer,5,299.00,SKU-MST-552
